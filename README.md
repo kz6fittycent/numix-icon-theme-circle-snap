@@ -1,4 +1,4 @@
-[![🧪 Snap Builds](https://github.com/kz6fittycent/numix-icon-theme-circle-snap/actions/workflows/test-snap-can-build.yml/badge.svg)](https://github.com/kz6fittycent/numix-icon-theme-circle-snap/actions/workflows/test-snap-can-build.yml)
+[![numix-icon-theme-circle](https://snapcraft.io/numix-icon-theme-circle/badge.svg)](https://snapcraft.io/numix-icon-theme-circle) [![🧪 Snap Builds](https://github.com/kz6fittycent/numix-icon-theme-circle-snap/actions/workflows/test-snap-can-build.yml/badge.svg)](https://github.com/kz6fittycent/numix-icon-theme-circle-snap/actions/workflows/test-snap-can-build.yml)
 
 # numix-icon-theme-circle-snap
 A Snap for the [Numix Circle icon theme](https://github.com/numixproject/numix-icon-theme-circle/).
